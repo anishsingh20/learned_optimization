@@ -1,4 +1,4 @@
-# learned\_optimization: Meta-learning optimizers and more with JAX
+# learned\_optimization: Meta-learning optimizers and more with JAX and Python
 
 [![Documentation Status](https://readthedocs.org/projects/learned-optimization/badge/?version=latest)](https://learned-optimization.readthedocs.io/en/latest/?badge=latest)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
